@@ -5,9 +5,9 @@ body {
     margin: 0;
     padding: 20px;
     background-color: black;
-    /* Set background color to black */
+   
     color: white;
-    /* Set text color to white */
+
 }
 
 
@@ -16,6 +16,9 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 20px;
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 800px;
 }
 
 
@@ -39,7 +42,7 @@ h1 {
 .search-container button {
     padding: 8px 12px;
     font-size: 14px;
-    background-color: #4caf50;
+    background-color: #8dde90;
     color: #fff;
     border: none;
     border-radius: 4px;
